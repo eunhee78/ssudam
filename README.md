@@ -17,15 +17,15 @@
 ## 📌 사이트 소개
 
 | 메인 : 일반유저 | 메인 : 관리자 |
-| ----------------- | ------------------ |
-| <img src="https://github.com/hyezuu/suudam/assets/147456219/0e572cc9-e182-443d-a7bc-6746365909d3" width="330" height="210"/> | <img src="https://github.com/codestates-seb/abc02_002/assets/147456219/50210814-0cfa-4d3c-9459-ed3d616f69a0" width="330" height="210"/> |
+| :---: | :---: |
+| <img src="https://github.com/hyezuu/suudam/assets/147456219/0e572cc9-e182-443d-a7bc-6746365909d3" width="370" height="200"/> | <img src="https://github.com/codestates-seb/abc02_002/assets/147456219/50210814-0cfa-4d3c-9459-ed3d616f69a0" width="370" height="200"/> |
 
 | 메인 : 검색 | 메인 : 비로그인 |
-| ----------------- | ----------------- |
-| <img src="https://github.com/codestates-seb/abc02_002/assets/147456219/99bb458d-5676-4d2d-be5c-09d3cf7f61c0" width="330" height="210"/> | <img src="https://github.com/codestates-seb/abc02_002/assets/147456219/48a7a7d7-3ea5-4776-b13a-6df2f63d2e72" width="330" height="210"/> |
+| :---: | :---: |
+| <img src="https://github.com/codestates-seb/abc02_002/assets/147456219/99bb458d-5676-4d2d-be5c-09d3cf7f61c0" width="370" height="200"/> | <img src="https://github.com/codestates-seb/abc02_002/assets/147456219/48a7a7d7-3ea5-4776-b13a-6df2f63d2e72" width="370" height="200"/> |
 
 | 모임글 등록 | 북마크 기능 |
-| ----------------- | ------------------ |
+| :---: | :---: |
 | <img src="https://github.com/codestates-seb/abc02_002/assets/147456219/03daf867-43ad-4d3d-97b7-1939f8d779dd" width="330" height="210"/> | <img src="https://github.com/codestates-seb/abc02_002/assets/147456219/1de7774d-d871-41f1-b614-3aad6cabc1ce" width="330" height="210"/> |
 
 | 모임글 수정 | 모임글 삭제 |
