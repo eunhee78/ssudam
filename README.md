@@ -10,7 +10,7 @@
 ## 🚩 개요
 - 프로젝트 이름 : 쓰담 (SSUDAM)
 - 프로젝트 기간 : 2023.12.22 ~ 2024.01.23
-- 배포주소 : [쓰담✨](http://ssdam.s3-website.ap-northeast-2.amazonaws.com/)
+- 배포주소 : ~~[쓰담✨](http://ssdam.s3-website.ap-northeast-2.amazonaws.com/)~~ 🚨현재 배포 중단🚨
 
 <br><br>
 
