@@ -42,22 +42,6 @@
 | :---: | :---: |
 | <img src="https://github.com/codestates-seb/abc02_002/assets/147456219/99bb458d-5676-4d2d-be5c-09d3cf7f61c0" width="370" height="200"/> | <img src="https://github.com/codestates-seb/abc02_002/assets/147456219/48a7a7d7-3ea5-4776-b13a-6df2f63d2e72" width="370" height="200"/> |
 
-| 모임글 등록 | 북마크 기능 |
-| :---: | :---: |
-| <img src="https://github.com/codestates-seb/abc02_002/assets/147456219/03daf867-43ad-4d3d-97b7-1939f8d779dd" width="370" height="200"/> | <img src="https://github.com/codestates-seb/abc02_002/assets/147456219/1de7774d-d871-41f1-b614-3aad6cabc1ce" width="370" height="200"/> |
-
-| 모임글 수정 | 모임글 삭제 |
-| :---: | :---: |
-| <img src="https://github.com/codestates-seb/abc02_002/assets/147456219/88f257c8-4720-4d81-91e0-dc953035eafa" width="370" height="200"/> | <img src="https://github.com/codestates-seb/abc02_002/assets/147456219/0dd96fbf-3576-40b2-bcc7-dd7ccf8d28c3" width="370" height="200"/> |
-
-| 참여 기능 | 댓글 등록 |
-| :---: | :---: |
-| <img src="https://github.com/codestates-seb/abc02_002/assets/147456219/cc36ec60-e84c-4af4-9f7c-91cb85699c3d" width="370" height="200"/> | <img src="https://github.com/codestates-seb/abc02_002/assets/147456219/ff6af06f-2e82-4909-93de-946d5230f56c" width="370" height="200"/> |
-
-| 댓글 삭제 | 대댓글 등록 |
-| :---: | :---: |
-| <img src="https://github.com/codestates-seb/abc02_002/assets/147456219/1eb14cbc-7adb-4ea7-8404-e7f0185f1213" width="370" height="200"/> | <img src="https://github.com/codestates-seb/abc02_002/assets/147456219/8e56e3f4-f719-4731-a59a-db9b4f3ea6f2" width="370" height="200"/> |
-
 | 후기 등록 | 후기 조회 |
 | :---: | :---: |
 | <img src="https://github.com/codestates-seb/abc02_002/assets/147456219/7398a83a-60b1-440f-91d2-f1a239fad495" width="370" height="200"/> | <img src="https://github.com/codestates-seb/abc02_002/assets/147456219/d3f1dd7f-1fae-4b56-b6de-a9039019315b" width="370" height="200"/> |
@@ -65,14 +49,6 @@
 | 후기 수정 삭제 | 관리자 페이지 |
 | :---: | :---: |
 | <img src="https://github.com/codestates-seb/abc02_002/assets/147456219/f0801cec-58ef-437d-b8cd-091d76696f16" width="370" height="200"/> | <img src="https://github.com/codestates-seb/abc02_002/assets/147456219/9c9a63a0-e57e-448a-bc28-76847f324cf6" width="370" height="200"/> |
-
-| 마이페이지 : 나의모임 | 마이페이지 : 나의 글/댓글 |
-| :---: | :---: |
-| <img src="https://github.com/codestates-seb/abc02_002/assets/147456219/40b9a0ac-0e36-4456-8975-b57cdff6b4f8" width="370" height="210"/> | <img src="https://github.com/codestates-seb/abc02_002/assets/147456219/b0bb509d-9f65-4be3-87ee-ca94558d8487" width="370" height="200"/> |
-
-| 마이페이지 : 북마크 | 회원 탈퇴 |
-| :---: | :---: |
-| <img src="https://github.com/codestates-seb/abc02_002/assets/147456219/7dda3383-2f5b-42f7-9274-031ab859841b" width="370" height="210"/> | <img src="https://github.com/codestates-seb/abc02_002/assets/147456219/b1a2c74b-7f78-4d94-a0c9-6d86531b2809" width="370" height="200"/> |
 
 <br><br>
 
