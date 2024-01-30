@@ -32,23 +32,6 @@
 
 <br>
 
-## 🪄 Pages Preview
-
-| 메인 : 일반유저 | 메인 : 관리자 |
-| :---: | :---: |
-| <img src="https://github.com/hyezuu/suudam/assets/147456219/0e572cc9-e182-443d-a7bc-6746365909d3" width="370" height="200"/> | <img src="https://github.com/codestates-seb/abc02_002/assets/147456219/50210814-0cfa-4d3c-9459-ed3d616f69a0" width="370" height="200"/> |
-
-| 메인 : 검색 | 메인 : 비로그인 |
-| :---: | :---: |
-| <img src="https://github.com/codestates-seb/abc02_002/assets/147456219/99bb458d-5676-4d2d-be5c-09d3cf7f61c0" width="370" height="200"/> | <img src="https://github.com/codestates-seb/abc02_002/assets/147456219/48a7a7d7-3ea5-4776-b13a-6df2f63d2e72" width="370" height="200"/> |
-
-| 후기 등록 | 후기 조회 |
-| :---: | :---: |
-| <img src="https://github.com/codestates-seb/abc02_002/assets/147456219/7398a83a-60b1-440f-91d2-f1a239fad495" width="370" height="200"/> | <img src="https://github.com/codestates-seb/abc02_002/assets/147456219/d3f1dd7f-1fae-4b56-b6de-a9039019315b" width="370" height="200"/> |
-
-| 후기 수정 삭제 | 관리자 페이지 |
-| :---: | :---: |
-| <img src="https://github.com/codestates-seb/abc02_002/assets/147456219/f0801cec-58ef-437d-b8cd-091d76696f16" width="370" height="200"/> | <img src="https://github.com/codestates-seb/abc02_002/assets/147456219/9c9a63a0-e57e-448a-bc28-76847f324cf6" width="370" height="200"/> |
 
 <br><br>
 
