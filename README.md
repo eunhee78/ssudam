@@ -1,9 +1,16 @@
 <p align="center">
   <img src="https://ifh.cc/g/foMwhL.jpg">
 </p>
-<h3 align='center'> 쓰담(SSUDAM)은 쓰레기 담기의 줄인말로 
+  <h3 align='center'> 쓰담(SSUDAM)은 쓰레기 담기의 줄인말로 
 <br>
-  지역 생태계 보호와 걷기를 통한 주민들의 건강 증진을 돕는 커뮤니티 사이트입니다. </h3>
+  함께 플로깅을 할 사람을 모집하는 플로깅 커뮤니티 사이트입니다. </h3>
+<p align="center">  
+  <em> * 플로깅(Plogging)은 '줍다'라는 뜻의 스웨덴어 플로카 업(plocka upp)과</em>
+<br>
+  <em>'달리다'라는 뜻의 영어 조깅(Jogging)을 합성한 단어로,</em>
+<br>
+  <em>쓰레기를 주우며 조깅하는 행동을 의미합니다.</em>
+<br>
   
 <br>
 
